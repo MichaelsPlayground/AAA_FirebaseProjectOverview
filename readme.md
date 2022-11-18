@@ -109,9 +109,14 @@ Package name: de.androidcrypto.firebaseuploadtutorial
 ```
 
 **FirebaseUI-Android (active)**
+
+parallel use: **FirebaseUiPlayground (active)**
+ 
 * Auth with Email/Password, Google, Anonymus
 * Database (US) - expires 2022-12-16
 * Storage
+
+Note: Kotlin-app
 ```plaintext
 console: FirebaseUiDemo
 Project ID: fir-uidemo-5d814
@@ -124,8 +129,8 @@ Package name: com.firebase.uidemo
 ```plaintext
 console: 
 Project ID: livecricket-4c4d5
-Project number: com.example.chaitanya.firebasemultipledata
-Package name: 
+Project number: 
+Package name: com.example.chaitanya.firebasemultipledata
 ```
 
 **FirebaseUserAuthenticationEmail (inactive)**
@@ -176,11 +181,18 @@ Cloud Storage for Firebase Service Agent as role
 Dienst-Agent für Cloud Storage for Firebase
 ```
 
+**FirebaseUiPlayground (active)**
+
+parallel use: **FirebaseUI-Android (active)**
+
+* Auth with Email/Password, Google
+* Database (US) - expired
+* Storage
 ```plaintext
-console: 
-Project ID: 
-Project number:
-Package name: 
+console: FirebaseUiDemo
+Project ID: fir-uidemo-5d814
+Project number: 1011466351692
+Package name: de.androidcrypto.firebaseuiplayground
 ```
 
 
