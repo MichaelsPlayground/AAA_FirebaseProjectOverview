@@ -128,9 +128,9 @@ Project number: com.example.chaitanya.firebasemultipledata
 Package name: 
 ```
 
-**FirebaseUserAuthenticationEmail ()**
+**FirebaseUserAuthenticationEmail (inactive)**
 * Auth with Email/Password
-*Firestore Database (US ?) - expired
+* Firestore Database (US ?) - expired
 * Storage # Error in security rules ?
 ```plaintext
 console: UserAuthEmailPassword
@@ -138,30 +138,43 @@ Project ID: userauthemailpassword
 Project number: 1074456848583
 Package name: de.androidcrypto.firebaseuserauthenticationemail
 ```
-
-
-
-
 ```plaintext
-console: 
-Project ID: 
-Project number:
-Package name: 
+Error fixing:
+service-1074456848583@gcp-sa-firebasestorage.iam.gserviceaccount.com as a principle
+Cloud Storage for Firebase Service Agent as role
+Dienst-Agent für Cloud Storage for Firebase
 ```
 
 
-
-
+**Sign-In-provider-using-Firebase-in-android-studio (inactive)**
+* no Firebase console *
 ```plaintext
 console: 
-Project ID: 
+Project ID: signinproviders
 Project number:
-Package name: 
+Package name: com.codewithgolap.signinproviders
 ```
 
+**NotesAppInAndroidStudio (inactive)**
+* no Firebase console *
 
+**SimpleChatApp ()**
+* Auth with Email/Password
+* Database (Europe) - expired
+* no Storage
+```plaintext
+console: SimpleChatApp
+Project ID: simplechatapp-5468c
+Project number: 1049455739871
+Package name: de.androidcrypto.simplechatapp
+```
 
-
+```plaintext
+Error fixing
+service-1049455739871@gcp-sa-firebasestorage.iam.gserviceaccount.com as a principle
+Cloud Storage for Firebase Service Agent as role
+Dienst-Agent für Cloud Storage for Firebase
+```
 
 ```plaintext
 console: 
