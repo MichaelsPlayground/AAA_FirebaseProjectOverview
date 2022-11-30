@@ -222,7 +222,7 @@ Package name: com.example.firestorerecycleradapterdemo
 
 Projects in fb.samples
 
-**WhatsappChat**
+**WhatsappChat (active)**
 * Auth with Email/Password, Google
 * Database (US)
 * Storage (US)
