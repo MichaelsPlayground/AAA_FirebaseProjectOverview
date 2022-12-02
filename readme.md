@@ -235,6 +235,31 @@ Project number: 140901286702
 Package name: de.androidcrypto.whatsappchat
 ```
 
+**FirestoreChatApp (active)**
+* Auth with Email/Password, Google
+* Firestore (Europe)
+* Storage (Europe)
+
+```plaintext
+account: fb.samples
+console: FirestoreChatApp
+Project ID: firestorechatapp-12169
+Project number: 868425029414
+Package name: de.androidcrypto.firestorechatapp
+```
+
+**FirebaseCloudMessaging (active)**
+* Auth with Email/Password, Google
+* Database (Europe)
+* Aanalytics (Germany/Deutschland)
+```plaintext
+account: fb.samples
+console: FirebaseCloudMessaging
+Project ID: fir-cloudmessaging-b020c
+Project number: 1063102112224
+Package name: de.androidcrypto.firebasecloudmessaging
+```
+
 
 
 ```plaintext
