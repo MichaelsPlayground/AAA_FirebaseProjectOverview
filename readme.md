@@ -5,6 +5,7 @@
 **FirebasePlayground (active)**
 * Auth with Email/Password, Google
 * Database (Europe)
+* Cloud Firestore (Europe)
 * Storage
 ```plaintext
 account: Till Schneemann
@@ -251,7 +252,7 @@ Package name: de.androidcrypto.firestorechatapp
 **FirebaseCloudMessaging (active)**
 * Auth with Email/Password, Google
 * Database (Europe)
-* Aanalytics (Germany/Deutschland)
+* Analytics (Germany/Deutschland)
 ```plaintext
 account: fb.samples
 console: FirebaseCloudMessaging
@@ -259,6 +260,25 @@ Project ID: fir-cloudmessaging-b020c
 Project number: 1063102112224
 Package name: de.androidcrypto.firebasecloudmessaging
 ```
+
+com.google.firebase.codelab.friendlychat
+
+MD5: 4D:1E:D7:91:56:67:73:EA:54:73:BC:EC:D7:E5:9B:F5
+SHA1: 19:22:A4:D7:01:A8:3D:09:8F:04:93:E9:8E:21:92:2D:5A:5F:B0:54
+SHA-256: A7:A8:66:27:C7:76:6D:C3:3C:9E:3F:89:99:88:3E:A1:7B:ED:34:69:19:83:B6:EA:72:04:C9:13:8E:84:E0:90
+
+**FirebaseBattleshipJava (inactive)**
+* Auth with Email/Password, Google
+* Database (Europe)
+```plaintext
+account: fb.samples
+console: BattleshipJava
+Project ID: codelabfriendlychat-d41d8
+Project number: 437120052262
+Package name: de.androidcrypto.firebasebattleshipjava
+```
+
+
 
 
 
