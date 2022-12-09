@@ -14,6 +14,7 @@ Project ID: fir-playground-1856e
 Project number: 1019673864578
 Package name: de.androidcrypto.firebaseplayground
 ```
+https://pastebin.com/NkiZjcBq
 
 **FirebaseUploadTutorial (active)**
 * Auth with Email/Password, Google, Anonymus
@@ -207,6 +208,8 @@ Project ID: fir-uidemo-5d814
 Project number: 1011466351692
 Package name: com.firebase.uidemo
 ```
+https://pastebin.com/5Bivbf5k
+
 
 **FirestoreRecyclerAdapterDemo (active)**
 *Auth with Email/Password
