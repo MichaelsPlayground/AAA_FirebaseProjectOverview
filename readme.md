@@ -41,6 +41,7 @@ Package name: com.example.chatapp
 ```
 
 **ChatAppSdk33 (active)**
+alternative Name: ChatAppSdk33Gradle812
 **ChatAppSdk33Original (inactive)**
 * Auth with Email/Password, Google
 * Database (Europe)
