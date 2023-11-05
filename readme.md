@@ -1,6 +1,6 @@
 # Firebase Project Overview
 
-28th Nov. 2022
+18th Dec. 2022
 
 **FirebasePlayground (active)**
 * Auth with Email/Password, Google
@@ -224,6 +224,7 @@ Package name: com.example.firestorerecycleradapterdemo
 Projects in fb.samples
 
 **WhatsappChat (active)**
+alternative Name (updated): WhatappChatSdk33Gradle812
 * Auth with Email/Password, Google
 * Database (US)
 * Storage (US)
@@ -278,7 +279,18 @@ Project number: 437120052262
 Package name: de.androidcrypto.firebasebattleshipjava
 ```
 
-
+**LapitChatApp (active)**
+* Auth with Email/Password
+* Database (Europe): https://lapitchatapp-2c66c-default-rtdb.europe-west1.firebasedatabase.app/
+* Storage (Europe)
+* Messaging
+```plaintext
+account: fb.samples
+console: LapitChatApp
+Project ID: lapitchatapp-2c66c
+Project number: 756046008463
+Package name: in.tvac.akshaye.lapitchat
+```
 
 
 
