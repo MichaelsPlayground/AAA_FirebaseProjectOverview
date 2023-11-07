@@ -109,7 +109,7 @@ Package name: de.androidcrypto.firebasechat
 * no Firebase console*
 
 **FirebaseTutorialLoginEmail (inactive)**
-* Auth with Email/Password, Google, Anonymus
+* Auth with Email/Password, Google, Anonymous
 * Database (US) - expired
 * Storage
 ```plaintext
@@ -297,6 +297,19 @@ Package name: in.tvac.akshaye.lapitchat
 ```
 
 
+**FirebaseQuickstartAndroid (active)**
+* Auth with Email/Password, Anonymous, Google
+//* Database (Europe): https://lapitchatapp-2c66c-default-rtdb.europe-west1.firebasedatabase.app/
+//* Storage (Europe)
+//* Messaging
+```plaintext
+account: fb.samples
+console: QuickstartAndroid
+Project ID: quickstartandroid-a1fa0
+Project number: 616826384182
+Package name: de.androidcrypto.firebase.quickstart.auth
+applicationId (see module build.gradle): de.androidcrypto.firebase.quickstart.auth
+```
 
 ```plaintext
 account: 
