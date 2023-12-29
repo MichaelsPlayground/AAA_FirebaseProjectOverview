@@ -311,6 +311,24 @@ Package name: de.androidcrypto.firebase.quickstart.auth
 applicationId (see module build.gradle): de.androidcrypto.firebase.quickstart.auth
 ```
 
+**FB Web Tutorial (active)**
+* Auth with Email/Password, Google
+* Database (Europe): https://console.firebase.google.com/u/0/project/fb-web-tutorial/database/fb-web-tutorial-default-rtdb/data/~2F
+* Firestore (Europe): Database location: eur3
+* Storage (Europe): https://console.firebase.google.com/u/0/project/fb-web-tutorial/storage/fb-web-tutorial.appspot.com/files
+ 
+```plaintext
+account: fb.samples
+console: FB Web Tutorial
+Project ID: fb-web-tutorial
+Project number: 1074061509163
+Package name: WebApp
+```
+
+
+
+
+
 ```plaintext
 account: 
 console: 
